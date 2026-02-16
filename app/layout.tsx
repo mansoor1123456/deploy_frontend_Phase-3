@@ -1,4 +1,6 @@
-import './globals.css';
+import '../styles/globals.css';
+// import './globals.css';
+
 import { AuthProvider } from '../components/AuthProvider';
 
 export default function RootLayout({
